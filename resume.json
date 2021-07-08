@@ -1,0 +1,155 @@
+{
+  "basics": {
+    "name": "Adrian-Gabriel Oros",
+    "label": "Software Engineer",
+    "picture": "profilepic.jpg",
+    "email": "adriangabrieloros@gmail.com",
+    "phone": "+40747281391",
+    "summary": "software engineer | craft beer brewer | blood donor",
+    "location": {
+      "city": "Cluj-Napoca",
+      "region": "CJ",
+      "countryCode": "RO"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/oros-adrian-b6032b37/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ComplyAdvantage",
+      "position": "Software Engineer",
+      "website": "https://complyadvantage.com/",
+      "startDate": "2020-06-01",
+      "endDate": "2021-08-01",
+      "summary": "Backend and customer work in a highly complex project, worked on dividing a monolith into microservices.",
+      "highlights": ["Microservices", "Customers integration", "E2E Testing", "AWS", "Kafka", "Kubernetes", "Docker",
+        "GitLab CI/CD", "MongoDB", "Redis", "Python"]
+    },
+    {
+      "company": "Macadamian Romania",
+      "position": "Software Engineer",
+      "website": "https://www.macadamian.com/",
+      "startDate": "2015-11-01",
+      "endDate": "2020-06-01",
+      "summary": "Backend work for an outsourcing company - multiple projects and a lot of variety.",
+      "highlights": ["Rest APIs", "Customers integrations", "E2E Testing", "Python", "PostgreSQL", "Linux", "AWS", "Azure", "Docker"]
+    },
+    {
+      "company": "Hewlett-Packard",
+      "position": "Python Developer",
+      "startDate": "2013-04-01",
+      "endDate": "2015-10-30",
+      "summary": "Mainly worked with pure Python (no frameworks) - server maintenance and networking related products. Mentored the development of two students that were later hired.",
+      "highlights": ["Server Automation", "Linux OS", "Python", "VMware"]
+    },
+    {
+      "company": "Hewlett-Packard",
+      "position": "QA Engineer",
+      "startDate": "2012-03-01",
+      "endDate": "2013-03-30",
+      "summary": "Designed, implemented, and executed both manual and automated tests.",
+      "highlights": ["Python", "Linux"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Code for Romania",
+      "position": "Coder for https://github.com/code4romania/covid-19-ro-help",
+      "website": "https://code4.ro/ro",
+      "startDate": "2020-03-01",
+      "endDate": "2020-05-01",
+      "summary": "Ro Help is a platform meant to help NGOs during an emergency situation. The NGOs can ask for donations, resources or volunteers, and users can browse the needs that various NGOs have.",
+      "highlights": ["Python", "Django", "Docker"]
+    }
+    ],
+  "projects":  [
+    {
+      "name": "TapPoint",
+      "roles": ["Consultant - DB designer"],
+      "url": "https://www.facebook.com/beerspoint.ro",
+      "startDate": "2019-09-01",
+      "endDate": "2020-01-01",
+      "description": "This project develops and builds a beer vending machine that will permit end users to personally pour and enjoy craft beer from a tap in public locations.",
+      "highlights": ["PostgreSQL"]
+    },
+    {
+      "name": "Blackout Brewing",
+      "roles": ["Brewer"],
+      "url": "https://www.facebook.com/blackoutbrewing",
+      "startDate": "2019-02-01",
+      "description": "Focused on aging beer in wood barrels.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technical University - Cluj-Napoca",
+      "area": "Electronics and Telecommunications",
+      "studyType": "Bachelor",
+      "startDate": "2008-10-01",
+      "endDate": "2012-07-08",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Technical University - Cluj-Napoca",
+      "area": "Complements of Computer Science",
+      "studyType": "Master Degree",
+      "startDate": "2012-10-01",
+      "endDate": "2014-07-05",
+      "gpa": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Worked with",
+      "keywords":[
+        "AWS",
+        "Docker",
+        "Kafka",
+        "Kubernetes",
+        "MongoDB",
+        "MySQL",
+        "Linux",
+        "PostgreSQL",
+        "Python",
+        "Redis",
+        "Certified Scrum Master: October 2017 - October 2019"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Romanian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Elementary proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Software Engineering",
+      "keywords": []
+    },
+    {
+      "name": "Brewing Craft Beer Commercially",
+      "keywords": []
+    },
+    {
+      "name": "Entrepreneurship",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}
